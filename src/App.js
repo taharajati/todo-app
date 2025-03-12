@@ -355,7 +355,7 @@ function App() {
                 className="p-3 text-white rounded-xl shadow-md transition duration-300 min-w-[100px]"
                 style={{ backgroundColor: 'var(--color-primary)' }}
               >
-                افزودن
+                اضافه کردن
               </motion.button>
             </div>
           </div>
