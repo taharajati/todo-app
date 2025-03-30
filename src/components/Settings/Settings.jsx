@@ -150,7 +150,7 @@ function Settings({ isOpen, onClose, settings, onUpdateSettings }) {
 
         {/* Font Selection */}
         <div className="space-y-3">
-          <h3 className="text-lg font-semibold text-gray-900 dark:text-white">فونت</h3>
+          <h3 className="text-lg font-semibold text-gray-900 dark:text-white"> فونت متن</h3>
           <div className="grid grid-cols-2 gap-3">
             {Object.entries(fonts).map(([key, font]) => (
               <button
